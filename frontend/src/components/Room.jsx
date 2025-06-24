@@ -3,7 +3,7 @@ import io from "socket.io-client";
 import MathEditor from "./MathEditor";
 import DrawingCanvas from "./DrawingCanvas";
 
-const socket = io("http://localhost:5000");
+const socket = io("https://math-collab-backend.onrender.com"); // ganti sesuai URL backend Anda
 
 function Room({ roomId }) {
   const [latex, setLatex] = useState("");
