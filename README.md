@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Math Collab
 
 Website kolaborasi pembelajaran matematika seperti Mathway & GeoGebra  
@@ -58,3 +59,6 @@ math-collab/
 ---
 
 Kontribusi dan pengembangan lanjutan sangat terbuka!
+=======
+# math-collab
+>>>>>>> 335309a05f3917211256dc2de2c1c8f267fc07e6
